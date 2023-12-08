@@ -1,0 +1,8 @@
+prefix=/home/dien/catkin_ws2/install
+
+Name: afsim
+Description: Description of afsim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs rospy

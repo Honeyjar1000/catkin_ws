@@ -1,0 +1,2 @@
+afsim:test_package
+-DCATKIN_DEVEL_PREFIX=/home/dien/catkin_ws2/devel -DCMAKE_INSTALL_PREFIX=/home/dien/catkin_ws2/install -G Unix Makefiles

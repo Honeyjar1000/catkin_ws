@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>test_package</name>
+  <version>0.0.0</version>
+  <description>The test_package package</description>
+  <maintainer email="dien@todo.todo">dien</maintainer>
+  <license>TODO</license>
+
+  <!-- <author email="jane.doe@example.com">Jane Doe</author> -->
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>turtlesim</build_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <build_export_depend>turtlesim</build_export_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>turtlesim</exec_depend>
+
+
+  <export>
+  
+  </export>
+
+</package>
